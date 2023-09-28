@@ -1,0 +1,6 @@
+#Autor:RFR
+#Fecha:28/09/2023
+#Scripting: Loging
+
+
+echo "hola mundo"
